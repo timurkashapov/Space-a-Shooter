@@ -1,5 +1,5 @@
 # SpaceShooter 
 
-![](android/assets/p.gif)
+![](android/assets/p.gif) ![](android/assets/explosion1.gif) ![](android/assets/asteroid.gif)
 
-![](android/assets/andromeda_640x480.png)
+
